@@ -1,0 +1,3 @@
+print("hello lets start our assignment")
+x=28
+print(x)
