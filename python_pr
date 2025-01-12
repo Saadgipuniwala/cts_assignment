@@ -8,3 +8,4 @@ print("Rahul","emma","priti",25,35,56,23.87,98.06,98.04,sep=" , ")
 print("Rahul","emma","priti",25,35,56,23.87,98.06,98.04, sep="\n")
 print("Rahul",26 ,end=" ")
 print("emma", 27, sep="\n")
+
