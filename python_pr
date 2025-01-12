@@ -1,3 +1,6 @@
 print("hello lets start our assignment")
 x=28
 print(x)
+y=22
+print("y:",y)
+print(x+y)
